@@ -616,4 +616,8 @@
     .inner_Module h2 {
         margin-left: 0;
     }
+    
+    .section-features {
+        margin-bottom: -40px;
+    }
 }
