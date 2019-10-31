@@ -90,6 +90,10 @@ body {
     margin-bottom: 50px;
 }
 
+.inner_Module h2 {
+    margin-left:76px;
+}
+
 .row {
     max-width: 1200px;
     margin: 0 auto;
