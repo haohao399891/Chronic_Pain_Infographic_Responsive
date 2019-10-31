@@ -619,6 +619,10 @@
         margin-left: 0;
         width: 80%;
     }
+
+    .inner_Module h2 {
+        margin-left: 0;
+    }
 }
 
 
